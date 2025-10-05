@@ -1,4 +1,4 @@
-# Stepstone 🪨👣
+# Stepstone 👣 🪨
 
 A gamified step-tracking iOS app that turns your daily walks into epic journeys.
 
